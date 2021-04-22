@@ -1,0 +1,42 @@
+{
+  "chrisLists": [
+    {
+      "title": "Little Debbie Tree Cake",
+      "timestamp": 1619058990303,
+      "details": "I like the one with stripes",
+      "gotIt": false,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "title": "Lego Bricks",
+      "timestamp": 1619058990303,
+      "details": "I would be happy with the death star and a ship that flies",
+      "gotIt": false,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "title": "Yoda Hitch Cover",
+      "details": "Check it out on Etsy",
+      "userId": 1,
+      "timestamp": 1619058990303,
+      "gotIt": true,
+      "id": 3
+    },
+    {
+      "title": "Star Wars Tire Cover for the Jeep",
+      "details": "Look on Amazon for the details",
+      "userId": 1,
+      "timestamp": 1619101311164,
+      "gotIt": true,
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Brenda"
+    }
+  ]
+}
